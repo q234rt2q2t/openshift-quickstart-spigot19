@@ -1,7 +1,9 @@
-openshift-craftbukkit-quickstart
+**PLEASE NOTE THAT I DID NOT CODE THIS. ALL OF THIS CODE IS FROM JOHN YEARY. https://github.com/jyeary I AM UPDATING THIS TO SUPPORT 1.8**
+
+openshift-TacoSpigot-quickstart
 ================================
 
-A quickstart Minecraft (Craftbukkit) server that will automatically download latest craftbukkit development build 
+A quickstart Minecraft (TacoSpigot) server that will automatically download latest TacoSpigot development build 
 and start it.
 
 Create the Openshift DIY Application
@@ -10,7 +12,7 @@ Create the Openshift DIY Application
 1. Create a DIY application using this git repo as source code:
 
    ```bash
-   $ rhc app-create craftbukkit diy --from-code=git://github.com/jyeary/openshift-craftbukkit-quickstart.git
+   $ rhc app-create craftbukkit diy --from-code=git://github.com/ExplosiveCraft/OpenShiftSpigot.git
    ```
 
 2. Create a port-forward from your local machine to your remote server:
@@ -52,7 +54,7 @@ You will need at least one player to act as the administrator. In order to do th
    ```bash
    $ nano
    $ cat ops.txt
-   syeary
+   ExplosiveNight
    ```
 4. stop and start the gear. I have found restart does not work very well.
    
