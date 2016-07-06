@@ -1,4 +1,4 @@
-**PLEASE NOTE THAT I DID NOT CODE THIS. ALL OF THIS CODE IS FROM JOHN YEARY. https://github.com/jyeary I AM UPDATING THIS TO SUPPORT 1.8**
+**PLEASE NOTE THAT I DID NOT CODE THIS. ALL OF THIS CODE IS FROM JOHN YEARY. https://github.com/jyeary I AM UPDATING THIS TO SUPPORT 1.9**
 
 openshift-TacoSpigot-quickstart
 ================================
